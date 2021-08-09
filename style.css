@@ -609,8 +609,8 @@ p.dropcap span.first-letter { font-size: 55px; float: left; color: #ffc925; text
 -------------------------------------------------------------- */
 #site-header { position: relative; background-color: #fff; }
 #site-header-inner { position: relative; padding-top: 30px; padding-bottom: px; height: 100%; }
-#site-logo { float: left; margin: -1% 0 -3% -13%; }
-#main-nav {  margin: 2% -15% 0 0;}
+#site-logo { float: left; margin: -1% 0 1% -13%; }
+#main-nav {  margin: 0 -15% 0 0;}
 #site-logo .site-logo-text { color: #252525; font-size: 22px; line-height: 34px; font-weight: 700; }
 #site-logo .site-logo-text:hover { color: #ffc925; }
 
@@ -2401,7 +2401,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
         width: 45%;
     }
     .footer {
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
 }
 @media (max-width: 290px) {
@@ -2469,7 +2469,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
         width: 43%;
     }
     .footer {
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
 }
 /* Retina Devices
@@ -2556,7 +2556,7 @@ only screen and (                min-resolution: 2dppx){
     background: url(assets/img/bg-section-facts.jpg) no-repeat ;
     height: 450px !important;
     color: #fff;
-    font-family: 'Montserrat';
+    font-family: "Raleway", sans-serif;
 }
 .footer h3{
     color: #fff;
@@ -2606,7 +2606,7 @@ only screen and (                min-resolution: 2dppx){
 }
 .footer .content{
     margin: 3% 0 0 0;
-    font-family: 'Montserrat';
+    font-family: "Raleway", sans-serif;
 }
 .social{
     margin: 0 0 0 0;
@@ -2650,7 +2650,7 @@ only screen and (                min-resolution: 2dppx){
         background: url(assets/img/bg-section-facts.jpg) no-repeat ;
         height: 450px !important;
         color: #fff;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .wprt-team .cbp-item{
         width: 290px !important;
@@ -2660,7 +2660,7 @@ only screen and (                min-resolution: 2dppx){
 @media only screen and (max-width: 320px){
     .footer {
         height: 650px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .social {
         display: none;
@@ -2706,7 +2706,7 @@ only screen and (                min-resolution: 2dppx){
 @media (min-width: 321px) and (max-width: 360px){
     .footer {
         height: 650px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .social {
         display: none;
@@ -2755,7 +2755,7 @@ only screen and (                min-resolution: 2dppx){
 
     .footer {
         height: 650px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .social {
         display: none;
@@ -2800,7 +2800,7 @@ only screen and (                min-resolution: 2dppx){
 @media (min-width: 411px) and (max-width: 490px){
     .footer {
         height: 650px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .social {
         display: none;
@@ -2842,7 +2842,7 @@ only screen and (                min-resolution: 2dppx){
 @media (min-width: 491px) and (max-width: 570px){
     .footer {
         height: 650px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .social {
         display: none;
@@ -2878,7 +2878,7 @@ only screen and (                min-resolution: 2dppx){
 @media (min-width: 571px) and (max-width: 680px){
     .footer {
         height: 650px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .social {
         display: none;
@@ -2917,7 +2917,7 @@ only screen and (                min-resolution: 2dppx){
 @media (min-width: 681px) and (max-width: 770px){
     .footer {
         height: 650px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .social {
         display: none;
@@ -2988,7 +2988,7 @@ only screen and (                min-resolution: 2dppx){
     }
     .footer {
         height: 520px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
 }
 @media (min-width: 1024px) and (max-width: 1300px){
@@ -3021,7 +3021,7 @@ only screen and (                min-resolution: 2dppx){
     }
     .footer {
         height: 520px !important;
-        font-family: 'Montserrat';
+        font-family: "Raleway", sans-serif;
     }
     .bg-light p {
         margin-left: 0%;
