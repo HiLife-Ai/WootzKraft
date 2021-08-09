@@ -71,7 +71,7 @@ blockquote { font-style: italic; }
 blockquote {
     /* border: 2px solid #ffc925; */
     font-style: italic;
-    padding: 20px 20px 170px 20px;
+    padding: 20px 20px 20px 20px;
 }
 blockquote:before,
 blockquote:after,
@@ -609,7 +609,8 @@ p.dropcap span.first-letter { font-size: 55px; float: left; color: #ffc925; text
 -------------------------------------------------------------- */
 #site-header { position: relative; background-color: #fff; }
 #site-header-inner { position: relative; padding-top: 30px; padding-bottom: px; height: 100%; }
-#site-logo { float: left; }
+#site-logo { float: left; margin: -1% 0 1% -13%; }
+#main-nav {  margin: 0 -15% 0 0;}
 #site-logo .site-logo-text { color: #252525; font-size: 22px; line-height: 34px; font-weight: 700; }
 #site-logo .site-logo-text:hover { color: #ffc925; }
 
@@ -2605,6 +2606,7 @@ only screen and (                min-resolution: 2dppx){
 }
 .footer .content{
     margin: 3% 0 0 0;
+    font-family: 'Montserrat';
 }
 .social{
     margin: 0 0 0 0;
