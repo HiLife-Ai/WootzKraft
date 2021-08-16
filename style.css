@@ -2535,7 +2535,7 @@ only screen and (                min-resolution: 2dppx){
     position: fixed;
     width: 60px;
     height: 60px;
-    bottom: 95px;
+    bottom: 300px;
     right: 17px;
     background-color: #25d366;
     color: #FFF;
