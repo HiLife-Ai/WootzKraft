@@ -3054,3 +3054,6 @@ only screen and (                min-resolution: 2dppx){
 #team-wrap{
     height: 350px;
 }
+.phone-item {
+    margin: 0 45px 0 0;
+}
