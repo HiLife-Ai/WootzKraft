@@ -2701,6 +2701,9 @@ only screen and (                min-resolution: 2dppx){
     #team-wrap{
         height: 160px !important;
     }
+    #site-logo-inner{
+        padding: 0 0 0 35px;
+    }
 }
 
 @media (min-width: 321px) and (max-width: 360px){
@@ -2746,6 +2749,9 @@ only screen and (                min-resolution: 2dppx){
     }
     #team-wrap{
         height: 160px !important;
+    }
+    #site-logo-inner{
+        padding: 0 0 0 35px;
     }
     /*#projects {
         height: 864px !important;
@@ -2793,6 +2799,9 @@ only screen and (                min-resolution: 2dppx){
     .wprt-team .cbp-item{
         width: 330px !important;
     }
+    #site-logo-inner{
+        padding: 0 0 0 35px;
+    }
     /*#projects {
         height: 864px !important;
     }*/
@@ -2837,6 +2846,9 @@ only screen and (                min-resolution: 2dppx){
     }
     .wprt-team .cbp-item{
         width: 375px !important;
+    }
+    #site-logo-inner{
+        padding: 0 0 0 35px;
     }
 }
 @media (min-width: 491px) and (max-width: 570px){
@@ -2913,6 +2925,9 @@ only screen and (                min-resolution: 2dppx){
     #team-wrap{
         height: 160px !important;
     }
+    #site-logo-inner{
+        padding: 0 0 0 35px;
+    }
 }
 @media (min-width: 681px) and (max-width: 770px){
     .footer {
@@ -2957,6 +2972,9 @@ only screen and (                min-resolution: 2dppx){
     #team-wrap{
         height: 410px !important;
     }
+    #site-logo-inner{
+        padding: 0 0 0 35px;
+    }
 }
 @media (min-width: 992px) and (max-width: 1020px){
     .social {
@@ -2989,6 +3007,9 @@ only screen and (                min-resolution: 2dppx){
     .footer {
         height: 520px !important;
         font-family: "Raleway", sans-serif;
+    }
+    #site-logo-inner{
+        padding: 0 0 0 35px;
     }
 }
 @media (min-width: 1024px) and (max-width: 1300px){
